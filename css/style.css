@@ -3,3 +3,12 @@
         flex-direction: column;
     }
 }
+
+.header{
+    background-image: url(../img/head.jpg);
+    height: 622px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* clase background de allinlex */
+    /* responsive */
+}
