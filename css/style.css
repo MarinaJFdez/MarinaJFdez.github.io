@@ -5,10 +5,29 @@
 }
 
 .header{
-    background-image: url(../img/head.jpg);
-    height: 622px;
+    background-image: url(../img/IMG_20151228_144730.jpg);
+    height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
-    /* clase background de allinlex */
-    /* responsive */
+    background-position: top center;
+}
+
+@media all and (max-width: 991px){
+    .header{
+        height: 400px;
+    }
+}
+
+@media all and (max-width: 767px){
+    .header{
+        height: 300px;
+    }
+}
+
+.section_title{
+    text-align: center;
+}
+
+.about_photo{
+    width: 100%
 }
