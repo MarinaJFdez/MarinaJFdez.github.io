@@ -82,3 +82,11 @@
         z-index: 400;
         box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
     }
+
+/* TEMP */
+body {
+    background: #E8CBC0;
+    background: -webkit-linear-gradient(to right, #E8CBC0, #636FA4);
+    background: linear-gradient(to right, #E8CBC0, #636FA4);
+    min-height: 100vh;
+}
