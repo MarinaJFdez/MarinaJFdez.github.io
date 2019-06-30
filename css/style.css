@@ -24,6 +24,12 @@
     }
 }
 
+@media all and (max-width: 575px){
+    .header{
+        height: 250px;
+    }
+}
+
 .section_title{
     text-align: center;
     margin-bottom: 10px;
